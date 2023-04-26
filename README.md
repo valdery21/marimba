@@ -1,5 +1,5 @@
-# marimba
-Aplicativo de música que reproduz os sons de um Marimba.
+# Marimba
+Aplicativo de música que reproduz os sons de um Marimba.<br />
 Treinamento feito atravéz do canal no YouTube Polimorfismo.<br />
 <br />
 Tópicos:<br />
