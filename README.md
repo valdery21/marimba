@@ -1,16 +1,11 @@
 # marimba
+Aplicativo de música que reproduz os sons de um Marimba.
+Treinamento feito atravéz do canal no YouTube Polimorfismo.<br />
+<br />
+Tópicos:<br />
+Incorporar bibliotecas de código aberto ao projeto usando os pacotes do Flutter (Flutter packages).<br />
+Reproduzir sons no iOS e Android.<br />
+Evitar a repetição de linhas de códigos para widgets similares.<br />
+Funções do Dart para receber argumentos de entrada e retornar alguma saída.<br />
+Sintaxe de seta (do inglês, Arrow Functions) do Flutter para escrever funções em apenas uma linha.<br />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
