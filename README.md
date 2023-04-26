@@ -1,6 +1,6 @@
 # Marimba
 Aplicativo de música que reproduz os sons de um Marimba.<br />
-Treinamento feito atravéz do canal no YouTube Polimorfismo.<br />
+Treinamento feito através do canal no YouTube Polimorfismo.<br />
 <br />
 Tópicos:<br />
 Incorporar bibliotecas de código aberto ao projeto usando os pacotes do Flutter (Flutter packages).<br />
